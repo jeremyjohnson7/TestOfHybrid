@@ -62,4 +62,4 @@
 #*.rtf   diff=astextplain
 #*.RTF   diff=astextplain
 
-TestOfHybrid/Content/bootstrap* linguist-vendored
+*js linguist-vendored
